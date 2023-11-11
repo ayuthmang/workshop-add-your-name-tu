@@ -14,7 +14,7 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Tlezz](https://github.com/Tlezz)
 - [Ssswdrs](https://www.google.co.th/)
 - [Tlezz](https://github.com/Tlezz)
-- [Nattanan](https://github.com/Nattanan-Doangjinda)
+
 - [nncmilkyway](https://github.com/nncmilkyway)
 
 - [TarThanakorn](https://github.com/TarThanakorn)
@@ -42,3 +42,4 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Tonpaitw](https://github.com/Tonpaitw)
 - [Palowx](https://github.com/Palowx)
 - [ChanaratThongin](https://github.com/ChanaratThongin)
+- [Nattanan](https://github.com/Nattanan-Doangjinda)

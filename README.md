@@ -75,4 +75,3 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Nattanan](https://github.com/Nattanan-Doangjinda)
 - [uninrk](https://github.com/uninrk)
 - [paveewuth](https://github.com/paveewuth)
-- [thanattouth](https://github.com/thanattouth)

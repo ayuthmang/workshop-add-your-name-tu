@@ -1,2 +1,3 @@
 # workshop-add-your-name-tu
-wor
+
+Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/1iTezACN2ka--zkFGySf-LzqwAlJjcsjDpvpHEkKJ8dg/edit#gid=0)

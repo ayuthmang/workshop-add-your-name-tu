@@ -25,6 +25,8 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 
+-[GluayTord](https://github.com/GluayTord)
+- [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
@@ -32,3 +34,4 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
+- [ChanaratThongin](https://github.com/ChanaratThongin)

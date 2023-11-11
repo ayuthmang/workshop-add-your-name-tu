@@ -17,7 +17,7 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)
 - [WinyuTea](https://github.com/WinyuTea)
 - [NineMzz](https://github.com/NineMzz)
--[GluayTord](https://github.com/GluayTord)
+- [GluayTord](https://github.com/GluayTord)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)

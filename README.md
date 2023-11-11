@@ -16,5 +16,6 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [WinyuTea](https://github.com/WinyuTea)
 - [NineMzz](https://github.com/NineMzz)
 -[GluayTord](https://github.com/GluayTord)
+- [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 

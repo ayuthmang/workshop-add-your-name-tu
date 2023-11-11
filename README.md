@@ -9,7 +9,6 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Teeranart Wongchcvalit](https://github.com/Superizm)
 - [Narongsak](https://github.com/Kankluay)
 - [ayughmang](https://github.com/ayuthmang)
->>>>>>> 6f752b39460f7fb298e94d0bc904ccceec9ff809
 - [Jiraporn](https://github.com/Jiraporn-Jaiyasuk)
 - [Gunzcats](https://github.com/Gunzcats)
 - [krittamark](https://github.com/krittamark)
@@ -63,8 +62,6 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Tonpaitw](https://github.com/Tonpaitw)
 - [Palowx](https://github.com/Palowx)
 - [ChanaratThongin](https://github.com/ChanaratThongin)
-<<<<<<< HEAD
-=======
 - [oilTS](https://github.com/oilTS)
 
 - [Tanatcha](https://github.com/Tanatcha1304)
@@ -84,4 +81,5 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [uninrk](https://github.com/uninrk)
 - [paveewuth](https://github.com/paveewuth)
 - [Napasorn](https://github.com/napasorntil)
->>>>>>> 6f752b39460f7fb298e94d0bc904ccceec9ff809
+- [pear1112](https://github.com/pear1112)
+

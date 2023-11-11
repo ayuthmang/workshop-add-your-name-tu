@@ -30,23 +30,16 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
-<<<<<<< HEAD
-
->>>>>>> 6b5f0fa210f7589e963f034dc4d3b87b276a9a63
-=======
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Pattarata](https://github.com/PattarataThanaakkarasophon6509611940)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
-<<<<<<< HEAD
-- [Palowx](https://github.com/Palowx)
-- [ChanaratThongin](https://github.com/ChanaratThongin)
-=======
 - [ChanaratThongin](https://github.com/ChanaratThongin)
 - [Tonpaitw](https://github.com/Tonpaitw)
 - [Palowx](https://github.com/Palowx)
 - [ChanaratThongin](https://github.com/ChanaratThongin)
+<<<<<<< HEAD
 <<<<<<< HEAD
 - [oilTS](https://github.com/oilTS)
 =======
@@ -56,6 +49,10 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 [Tanatcha](https://github.com/Tanatcha1304)
 >>>>>>> be67fa0f22d3632bf26ad7545a4ce71051c198d8
 =======
+=======
+- [uninrk](https://github.com/uninrk)
+>>>>>>> 433b1a40a228b527b67168dae0ae72820ef36dab
 - [Tanatcha](https://github.com/Tanatcha1304)
+- [Tanatcha](https://github.co/Tanatcha1304)
 - [paveewuth](https://github.com/paveewuth)
 >>>>>>> f80671148e9a34582f1c80476595f23503074efb

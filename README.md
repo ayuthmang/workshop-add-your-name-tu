@@ -12,9 +12,7 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Tlezz](https://github.com/Tlezz)
 - [Ssswdrs](https://www.google.co.th/)
 - [Tlezz](https://github.com/Tlezz)
-<<<<<<< HEAD
 - [nncmilkyway](https://github.com/nncmilkyway)
-=======
 - [TarThanakorn](https://github.com/TarThanakorn)
 - [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)
 - [WinyuTea](https://github.com/WinyuTea)

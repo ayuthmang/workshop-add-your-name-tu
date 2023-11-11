@@ -52,5 +52,10 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 =======
 >>>>>>> 8ddffb3d026d1229f3188914825c354151153856
 >>>>>>> 2ef4cbbe69cec77ff92f06e817dd4f652ed6ee8a
+<<<<<<< HEAD
 [Tanatcha](https://github.com/Tanatcha1304)
 >>>>>>> be67fa0f22d3632bf26ad7545a4ce71051c198d8
+=======
+- [Tanatcha](https://github.com/Tanatcha1304)
+- [paveewuth](https://github.com/paveewuth)
+>>>>>>> f80671148e9a34582f1c80476595f23503074efb

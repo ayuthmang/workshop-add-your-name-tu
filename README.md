@@ -3,6 +3,7 @@
 Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/1iTezACN2ka--zkFGySf-LzqwAlJjcsjDpvpHEkKJ8dg/edit#gid=0)
 
 ## Members
+- [ayughmang](https://github.com/ayuthmang)
 - [Jiraporn](https://github.com/Jiraporn-Jaiyasuk)
 - [Gunzcats](https://github.com/Gunzcats)
 - [krittamark](https://github.com/krittamark)

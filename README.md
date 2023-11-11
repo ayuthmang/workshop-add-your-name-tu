@@ -3,6 +3,7 @@
 Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/1iTezACN2ka--zkFGySf-LzqwAlJjcsjDpvpHEkKJ8dg/edit#gid=0)
 
 ## Members
+- [Jiraporn](https://github.com/Jiraporn-Jaiyasuk)
 - [Gunzcats](https://github.com/Gunzcats)
 - [krittamark](https://github.com/krittamark)
 - [kkmxpphnnnn](https://github.com/kkmxpphnnnn)
@@ -17,12 +18,10 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)
 - [WinyuTea](https://github.com/WinyuTea)
 - [NineMzz](https://github.com/NineMzz)
-<<<<<<< HEAD
->>>>>>> f30a2ecedcbc2627daacd47906e91aecf169739b
-=======
-<<<<<<< HEAD
->>>>>>> f30a2ecedcbc2627daacd47906e91aecf169739b
-=======
+
+
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
->>>>>>> c925fdc7cc4713ff36cbf32974ef66ae27060ce9
->>>>>>> f50c33fd6fb8ec0e01d0f9dd8d997cd86309d32a
+
+- [Superman](https://github.com/Meenable)
+- [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
+

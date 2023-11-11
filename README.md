@@ -3,6 +3,7 @@
 Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/1iTezACN2ka--zkFGySf-LzqwAlJjcsjDpvpHEkKJ8dg/edit#gid=0)
 
 ## Members
+- [Teeranart Wongchcvalit](https://github.com/Superizm)
 - [Narongsak](https://github.com/Kankluay)
 - [ayughmang](https://github.com/ayuthmang)
 >>>>>>> 6f752b39460f7fb298e94d0bc904ccceec9ff809

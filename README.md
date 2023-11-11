@@ -3,7 +3,11 @@
 Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/1iTezACN2ka--zkFGySf-LzqwAlJjcsjDpvpHEkKJ8dg/edit#gid=0)
 
 ## Members
-- [kkmxpphnnnn](https://github.com/kkmxpphnnnn)
+- [Gunzcats](https://github.com/Gunzcats)
 - [krittamark](https://github.com/krittamark)
+- [kkmxpphnnnn](https://github.com/kkmxpphnnnn)
+- [Ssswdrs](https://www.google.co.th/)
 - [Tlezz](https://github.com/Tlezz)
 - [oilTS](https://github.com/oilTS)
+- [TarThanakorn](https://github.com/TarThanakorn)
+- [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)

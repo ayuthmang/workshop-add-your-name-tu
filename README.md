@@ -38,3 +38,5 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [ChanaratThongin](https://github.com/ChanaratThongin)
 - [uninrk](https://github.com/uninrk)
 - [Tanatcha](https://github.com/Tanatcha1304)
+- [Tanatcha](https://github.co/Tanatcha1304)
+- [paveewuth](https://github.com/paveewuth)

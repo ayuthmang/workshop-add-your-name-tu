@@ -34,7 +34,7 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
-<<<<<<< HEAD
+
 - [Palowx](https://github.com/Palowx)
 
 - [ChanaratThongin](https://github.com/ChanaratThongin)
@@ -50,4 +50,8 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Nattanan](https://github.com/Nattanan-Doangjinda)
 
 [Tanatcha](https://github.com/Tanatcha1304)
+
+
+- [Tanatcha](https://github.com/Tanatcha1304)
+- [paveewuth](https://github.com/paveewuth)
 

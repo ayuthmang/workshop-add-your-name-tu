@@ -15,14 +15,9 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [Tlezz](https://github.com/Tlezz)
 - [Ssswdrs](https://www.google.co.th/)
 - [Tlezz](https://github.com/Tlezz)
-
-<<<<<<< HEAD
 - [TarThanakorn](https://github.com/TarThanakorn)
 - [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)
-=======
->>>>>>> ae2501cc24b3a36e8f93749ad97168a0f6f31785
 - [nncmilkyway](https://github.com/nncmilkyway)
-
 - [TarThanakorn](https://github.com/TarThanakorn)
 - [GETFREEDiscOrdniTro](https://github.com/KittichotMonton)
 - [WinyuTea](https://github.com/WinyuTea)
@@ -33,8 +28,6 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 - [GluayTord](https://github.com/GluayTord)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Superman](https://github.com/Meenable)
-- [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
-
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
 - [Pattarata](https://github.com/PattarataThanaakkarasophon6509611940)
 - [KamonchanokKlayjinda](https://github.com/KamonchanokKlayjinda)
@@ -60,12 +53,7 @@ Add your GitHub username in [this sheet](https://docs.google.com/spreadsheets/d/
 >>>>>>> 8ddffb3d026d1229f3188914825c354151153856
 >>>>>>> 2ef4cbbe69cec77ff92f06e817dd4f652ed6ee8a
 <<<<<<< HEAD
-[Tanatcha](https://github.com/Tanatcha1304)
->>>>>>> be67fa0f22d3632bf26ad7545a4ce71051c198d8
-=======
-=======
-=======
-
+- [Tanatcha](https://github.com/Tanatcha1304)
 - [Nattanan](https://github.com/Nattanan-Doangjinda)
 
 [Tanatcha](https://github.com/Tanatcha1304)
